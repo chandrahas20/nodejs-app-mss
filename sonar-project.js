@@ -6,7 +6,7 @@ sonarqubeScanner({
 	    'sonar.projectDescription': 'This is a Node JS application',
 	    'sonar.projectName': 'Node JS Application - Sample',
 	    'sonar.projectKey':'NodeJsMithunTechnologies',
-	    'sonar.login': 'squ_b6d2f5ade9e0b2a3499dadbd00b8ea2bb53b9990',
+	    'sonar.login': 'squ_c0b7a8d9ee35cd07573af2b1f3a47aa12bfa9634',
 	    //'sonar.login': 'admin',
 	    //'sonar.password': 'admin',
             'sonar.projectVersion':'1.0',
